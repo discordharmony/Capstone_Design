@@ -2,12 +2,8 @@
 lane detection
 
 
-Dependency
-Raspberry pi 3B+
-OpenCV
-Python
-
-
+Dependency :
+Raspberry pi 3B+, OpenCV, Python
 
 
 capstone.py : name error, Camera Test file
@@ -29,20 +25,24 @@ semi final.py : camera + lane Detection + motor
 
 
 How to run the code
-If you want to run the demo, you can simply run:
-python main.py
+If you want to run the demo, you can simply run : 
+python final.py
 
 
 
-lane detection
--Grayscale
--Gaussian Blur
--Canny Edge Detection
--ROI, Region of Interest
--Hough Transformation
+lane detection : 
+-Grayscale,
+-Gaussian Blur,
+-Canny Edge Detection,
+-ROI, Region of Interest,
+-Hough Transformation,
 -Trackbar
 
 
 Reference
-motor - https://m.blog.naver.com/chandong83/221156273595
-lane Detection - https://justduke.tistory.com/m/category/Programming/Capstone%20Design
+
+motor : 
+https://m.blog.naver.com/chandong83/221156273595
+
+lane Detection : 
+https://justduke.tistory.com/m/category/Programming/Capstone%20Design
